@@ -10,7 +10,7 @@ _family = "Wt-Position-Mono"
 _humanName = "Wt-Position-Mono"
 _weight = "Regular"
 _copyright = "(c) 2019 Yutaka Obuchi (@FMS_Cat)"
-_version = "1.0.0"
+_version = "1.0.1"
 
 New()
 Reencode( "unicode" )
