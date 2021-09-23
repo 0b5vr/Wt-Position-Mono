@@ -1,6 +1,6 @@
 # Wt-Position-Mono
 
-A monospace equivalent of https://github.com/FMS-Cat/Wt-Position
+A monospace equivalent of https://github.com/0b5vr/Wt-Position
 
 ## How to build
 
