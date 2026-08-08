@@ -1,3 +1,4 @@
 /glyphs/*
 !/glyphs/.keep
 /node_modules/
+*.af~lock~
