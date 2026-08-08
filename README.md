@@ -6,17 +6,18 @@ A monospace equivalent of https://github.com/0b5vr/Wt-Position
 
 ### Prerequisite
 
-- Affinity Designer
+- Affinity
 - Fontforge
 - Node.js
 
 ### Steps
 
-- 1, Export all chars in Wt-Position-Mono.afdesign
+- 1, Export all chars in Wt-Position-Mono.af to `/glyphs`
 
-- 2, Run the commends:
+- 2, Run:
 
 ```sh
+npm install
 node prepare-svg.js
 fontforge --script main.pe
 ```
