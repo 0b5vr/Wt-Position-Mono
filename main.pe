@@ -9,8 +9,8 @@ _fontname = "Wt-Position-Mono-Regular"
 _family = "Wt-Position-Mono"
 _humanName = "Wt-Position-Mono"
 _weight = "Regular"
-_copyright = "(c) 2019-2021 0b5vr"
-_version = "1.0.3"
+_copyright = "(c) 2019-2026 0b5vr"
+_version = "1.1.0"
 
 New()
 Reencode( "unicode" )
