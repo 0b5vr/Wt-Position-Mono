@@ -32,6 +32,12 @@ SetWidth( _width )
 Select( 0x20 )
 SetWidth( _width )
 
+Select( 0x7f )
+SetWidth( _width )
+
+Select( 0x2800 )
+SetWidth( _width )
+
 SetFontNames( _fontname, _family, _humanName, _weight, _copyright, _version )
 Generate( _out )
 Quit( 0 )
