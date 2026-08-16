@@ -10,7 +10,7 @@ _family = "Wt-Position-Mono"
 _humanName = "Wt-Position-Mono"
 _weight = "Regular"
 _copyright = "(c) 2019-2026 0b5vr"
-_version = "1.1.0"
+_version = "1.1.1"
 
 New()
 Reencode( "unicode" )
